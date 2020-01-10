@@ -1,0 +1,31 @@
+{
+  "name": "aws-lambda-serverless-depoly",
+  "version": "1.0.0",
+  "description": "aws lambda serverless depoly",
+  "author": "AGUMON",
+  "license": "MIT",
+  "keywords": [
+    "aws",
+    "lambda",
+    "api gateway",
+    "serverless",
+    "depoly"
+  ],
+  "scripts": {
+    "start": "serverless offline",
+    "depoly": "serverless deploy"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.37",
+    "@types/chai": "^4.2.6",
+    "@types/mocha": "^5.2.7",
+    "@types/request": "^2.48.3",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "serverless-offline": "^5.12.1",
+    "serverless-plugin-typescript": "^1.1.9",
+    "tslint": "^5.20.1",
+    "tslint-config-airbnb": "^5.11.2",
+    "typescript": "^3.7.3"
+  }
+}
