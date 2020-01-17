@@ -1,7 +1,7 @@
 {
-  "name": "aws-lambda-serverless-depoly",
-  "version": "1.0.0",
-  "description": "aws lambda serverless depoly",
+  "name": "aws-lambda-serverless-deploy",
+  "version": "1.0.1",
+  "description": "aws lambda serverless deploy",
   "author": "AGUMON",
   "license": "MIT",
   "keywords": [
@@ -9,11 +9,11 @@
     "lambda",
     "api gateway",
     "serverless",
-    "depoly"
+    "deploy"
   ],
   "scripts": {
     "start": "serverless offline",
-    "depoly": "serverless deploy"
+    "deploy": "serverless deploy"
   },
   "devDependencies": {
     "@types/aws-lambda": "^8.10.37",

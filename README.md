@@ -1,6 +1,6 @@
-## AWS Lambda + Serverless Depoly
+## AWS Lambda + Serverless Deploy
 
-![](./lambda-serverless-depoly.png)
+![](./lambda-serverless-deploy.png)
 
 > Create smart AWS diagrams [Cloudcraft](https://cloudcraft.co/)
 
