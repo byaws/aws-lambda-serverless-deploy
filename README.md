@@ -1,15 +1,45 @@
-## AWS Lambda + Serverless Deploy
+<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/master/screenshots/architecture.png' border='0' alt='architecture' />
 
-![](./lambda-serverless-deploy.png)
+Implementation of automated distribution through [aws](https://aws.amazon.com/ko/) product [lambda](https://aws.amazon.com/ko/lambda/) and [api gateway](https://aws.amazon.com/ko/api-gateway/)
 
-> Create smart AWS diagrams [Cloudcraft](https://cloudcraft.co/)
+> Create smart aws diagrams [Cloudcraft](https://cloudcraft.co/)
 
-## Production
+<br />
 
-* [Lambda](https://aws.amazon.com/ko/lambda/) : 서버를 프로비저닝하거나 관리할 필요 없이 코드를 실행할 수 있습니다. 사용한 컴퓨팅 시간에 대해서만 비용을 지불하면 됩니다.
+## What is AWS ?
 
-* [API Gateway](https://aws.amazon.com/ko/api-gateway/) : 어떤 규모에서든 개발자가 API를 손쉽게 생성, 게시, 유지, 관리, 모니터링 및 보안 유지할 수 있도록 하는 완전관리형 서비스
+Whether you're looking for compute power, database storage, content delivery, or other features with services operated by Amazon, 
 
-* [Identity and Access Management(IAM)](https://aws.amazon.com/ko/iam/) : AWS 서비스와 리소스에 대한 액세스를 안전하게 관리할 수 있습니다.
+AWS has services to help you build sophisticated applications with increased flexibility, scalability, and reliability.
 
-* [Serverless](https://serverless.com/) : 서버리스 애플리케이션 구축 및 운영을 위한 완벽한 솔루션
+## What is Lambda ?
+
+AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume.
+
+With Lambda, you can run code for virtually any type of application or backend service - all with zero administration.
+
+▾ Amazon Lambda works
+
+<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/master/screenshots/lambda-works.png' border='0' alt='lambda-works' />
+
+## What is API Gateway ?
+
+Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.
+
+Using API Gateway, you can create RESTful APIs and WebSocket APIs that enable real-time two-way communication applications. 
+
+API Gateway supports containerized and serverless workloads, as well as web applications.
+
+▾ Amazon API Gateway works
+
+<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/master/screenshots/api-gateway-works.png' border='0' alt='api-gateway-works' />
+
+## What is Serverless ?
+
+It’s a movement that is defined by empowering developers to single-handedly build apps that handle production level traffic. 
+
+They don’t have to actively manage scaling their infrastructure. 
+
+They don't have to provision servers, or pay for resources that go unused. They can just focus on building.
+
+[Github](https://github.com/serverless/serverless)

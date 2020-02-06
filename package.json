@@ -2,7 +2,7 @@
   "name": "aws-lambda-serverless-deploy",
   "version": "1.0.1",
   "description": "aws lambda serverless deploy",
-  "author": "AGUMON",
+  "author": "AGUMON <ljlm0402@gmail.com>",
   "license": "MIT",
   "keywords": [
     "aws",
