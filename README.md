@@ -1,6 +1,6 @@
-<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/master/screenshots/architecture.png' border='0' alt='architecture' />
+<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/images/architecture.png' border='0' alt='architecture' />
 
-Implementation of automated distribution through [aws](https://aws.amazon.com/ko/) product [lambda](https://aws.amazon.com/ko/lambda/) and [api gateway](https://aws.amazon.com/ko/api-gateway/)
+Implementation of automated distribution through [AWS](https://aws.amazon.com/ko/) product [Lambda](https://aws.amazon.com/ko/lambda/) and [API Gateway](https://aws.amazon.com/ko/api-gateway/)
 
 > Create smart aws diagrams [Cloudcraft](https://cloudcraft.co/)
 
@@ -20,7 +20,7 @@ With Lambda, you can run code for virtually any type of application or backend s
 
 ▾ Amazon Lambda works
 
-<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/master/screenshots/lambda-works.png' border='0' alt='lambda-works' />
+<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/images/lambda-works.png' border='0' alt='lambda-works' />
 
 ## What is API Gateway ?
 
@@ -32,7 +32,7 @@ API Gateway supports containerized and serverless workloads, as well as web appl
 
 ▾ Amazon API Gateway works
 
-<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/master/screenshots/api-gateway-works.png' border='0' alt='api-gateway-works' />
+<img src='https://github.com/byaws/aws-lambda-serverless-deploy/raw/images/api-gateway-works.png' border='0' alt='api-gateway-works' />
 
 ## What is Serverless ?
 
